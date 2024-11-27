@@ -1,0 +1,5 @@
+# Ensure all text files use LF
+* text=auto
+
+# Force LF for Python files
+*.py eol=lf
